@@ -62,7 +62,8 @@ As conexões entre os componentes são feitas da seguinte forma:
 - Buzzer Passivo
   - Sinal (positivo) → GP16
   - GND (negativo) → GND
-
+ 
+![Sem título](https://github.com/user-attachments/assets/5e7ae98b-0e21-4dd0-ba0e-d76b67aacdbe)
 
 ## Como Executar
 
