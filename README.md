@@ -40,6 +40,29 @@ Este projeto requer as seguintes bibliotecas da Adafruit:
 - (Opcional) Impressora 3D para imprimir a caixa do Streamdeck
    - ![image](https://github.com/user-attachments/assets/f148c923-f2f2-4a57-9ad8-8c0fb0e59408)
 
+## Conexões
+
+As conexões entre os componentes são feitas da seguinte forma:
+- OLED SH1107 (I2C)
+   - SDA → GP4
+   - SCL → GP5
+   - VCC → 3V3
+   - GND → GND
+
+- Botão TTP223 "TOUCH" (para mudar mensagens)
+  - OUT → GP29
+  - VCC → 3V3
+  - GND → GND
+
+- Botão TTP223 "CONFIRM" (para confirmar envio do comando)
+  - OUT → GP14
+  - VCC → 3V3
+  - GND → GND
+
+- Buzzer Passivo
+  - Sinal (positivo) → GP16
+  - GND (negativo) → GND
+
 
 ## Como Executar
 
