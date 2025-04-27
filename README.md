@@ -37,7 +37,9 @@ Este projeto requer as seguintes bibliotecas da Adafruit:
 - Fios de conexão
    - ![image](https://github.com/user-attachments/assets/a177bd65-fbfb-4803-a4b6-e08f8aa0ed3d)
 
-- (Opcional) Impressora 3D para imprimir a caixa do Streamdeck.
+- (Opcional) Impressora 3D para imprimir a caixa do Streamdeck
+   - ![image](https://github.com/user-attachments/assets/f148c923-f2f2-4a57-9ad8-8c0fb0e59408)
+
 
 ## Como Executar
 
