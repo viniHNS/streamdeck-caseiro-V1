@@ -23,10 +23,20 @@ Este projeto requer as seguintes bibliotecas da Adafruit:
 
 ## Hardware Necessário
 - 1x Raspberry Pi Pico ou similar
-- 1x Display OLED SH1107 
-- 2x Botões de toque TTP223 
+  - ![image](https://github.com/user-attachments/assets/dfeaf6ff-6cd0-455f-a155-2efe0cdec150)
+
+- 1x Display OLED SH1107
+   - ![image](https://github.com/user-attachments/assets/1cc898f1-1c55-486b-86fc-afa17049cca9)
+
+- 2x Botões de toque TTP223
+   - ![image](https://github.com/user-attachments/assets/876cb80c-0a57-419b-92b8-1d4877e8e10f)
+
 - 1x Buzzer passivo
+   - ![image](https://github.com/user-attachments/assets/5a85d628-f7b2-4b66-b1d0-ccc9257bdae8)
+
 - Fios de conexão
+   - ![image](https://github.com/user-attachments/assets/a177bd65-fbfb-4803-a4b6-e08f8aa0ed3d)
+
 - (Opcional) Impressora 3D para imprimir a caixa do Streamdeck.
 
 ## Como Executar
